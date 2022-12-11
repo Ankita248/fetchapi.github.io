@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    background-color: rgb(253, 255, 240);
+    height:100vh;
+    text-align: center;
+    align-items: center;
+    
+}
